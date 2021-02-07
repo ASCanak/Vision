@@ -1,2 +1,1 @@
-# Vision
-# Ahmet Serdar Çanak (1760039)
+# Vision - Ahmet Serdar Çanak (1760039)
