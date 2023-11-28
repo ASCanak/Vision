@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scraped</folder>
+	<filename>car312.jpg</filename>
+	<path>C:\Users\user\Desktop\cars object detection\scraped\car312.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>80</ymin>
+			<xmax>390</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

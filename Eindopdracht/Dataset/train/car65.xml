@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>car65.jpg</filename>
+	<path>C:\Users\user\Desktop\autonome system\images\train\car65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>444</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>102</ymin>
+			<xmax>788</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>
